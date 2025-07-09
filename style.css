@@ -1,0 +1,30 @@
+
+button {
+    border:none;
+    padding-top:10px;
+    color:white;
+    font-weight: bold;
+    width:200px;
+    margin-bottom:5px;
+    border-radius:5px;
+}
+
+#increment-btn {
+    background:darkred;
+}
+
+#save-btn {
+    background:darkgreen;
+}
+
+html {
+    text-align: center;
+    background-image: url(https://www.strasburgrailroad.com/wp-content/uploads/sites/4062/2017/08/SR_ThomasAndFriends2021-min-scaled.jpg?w=1000&h=1000&zoom=2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.781) ;
+}
